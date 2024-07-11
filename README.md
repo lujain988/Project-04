@@ -34,9 +34,12 @@ The design of this project was meticulously planned using Figma. You can view th
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
-2. Navigate to the project directory:
+    ```bash
+    git clone https://github.com/lujain988/Project-04
+    ```
+3. Navigate to the project directory:
 
-3. Open Project----4.sln in your preferred web browser to view the application.
+4. Open Project----4.sln in your preferred web browser to view the application.
 
 ## Contributing
 
@@ -59,7 +62,7 @@ The project's progress and task management were organized using Trello. You can 
 - [Nour Shloul](https://github.com/NourShloul)
 - [Hosam Abuelhija](https://github.com/hosam-abuelhija)
 - [Ahmad Onizat](https://github.com/a7madddddd)
-- ## [Bassam Bany Ali](https://github.com/BassamBanyAli)
+- [Bassam Bany Ali](https://github.com/BassamBanyAli)
 
 Thank you for checking out the Dynamic Online Feedback System. We hope this project demonstrates our commitment to developing practical and user-friendly applications. If you have any questions or feedback, please feel free to contact us.
 ` in your preferred web browser to view the application.
